@@ -3,7 +3,7 @@
 ## Name: Thumar Pranav Kumar
 ## ID: 202001263
 
-# Section B:
+# Section A:
 
 ## **Based on the input ranges, we can identify the following equivalence classes:** <br>
 
