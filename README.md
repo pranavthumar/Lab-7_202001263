@@ -331,7 +331,7 @@ Note: Test cases TC1 to TC10 covers all identified equivalence classes.<br>
 
 **1. Control flow diagram**
 
-https://github.com/pranavthumar/Lab-7_202001263/blob/main/Capture.PNG
+![control-flow-diagram darwio](https://github.com/pranavthumar/Lab-7_202001263/blob/main/Capture.PNG)
 
 **2. Test sets**<br>
 
